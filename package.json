@@ -1,0 +1,25 @@
+{
+  "name": "serverapi",
+  "version": "1.0.0",
+  "description": "nodeJS简易接口",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carroll-X/serverApi.git"
+  },
+  "author": "zhouyuxi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carroll-X/serverApi/issues"
+  },
+  "homepage": "https://github.com/Carroll-X/serverApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.14",
+    "mysql": "^2.18.1"
+  }
+}
